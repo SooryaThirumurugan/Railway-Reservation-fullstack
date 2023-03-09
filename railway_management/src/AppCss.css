@@ -1,0 +1,28 @@
+.nav{
+    background-color:  rgb(28, 119, 115);
+    display:flex;
+    
+}
+h1{
+    color: rgb(160, 93, 93);
+    margin-left: 50px;    
+    /* background-color: rgb(65, 132, 231); */
+
+}
+.nav-link{
+
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    right: 50px;
+    align-items: center;
+    top:15px;
+    
+}
+button{
+    
+    background-color: lightseagreen;
+    color:white;
+    border: lightseagreen;
+    cursor:pointer;
+}
